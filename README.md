@@ -1,6 +1,6 @@
 # NL-Telegram-nets
 
-This repository contains, data cleaning, processing, network analysis and network visualisations of Telegram chats/channels that were used for the manuscript:
+This repository contains, data cleaning, processing, BERTopic modelling, network analysis and network visualisations of Telegram chats/channels that were used for the manuscript:
 
 ### Simon, M., Welbers, K., Kroon, A, & Trilling, D. Linked in the Dark: A network approach to understanding information flows within the Telegramsphere.
 
