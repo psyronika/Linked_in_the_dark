@@ -14,7 +14,7 @@ The data used for the analyses was collected via a python script that is availab
 
 ## In this repo
 
-- R scripts to conduct [network analysis] and network visualizations (https://github.com/psyronika/NL-Telegram-nets/blob/main/src/analysis)
+- R scripts to conduct [network analysis and network visualizations](https://github.com/psyronika/NL-Telegram-nets/blob/main/src/analysis)
 - Python notebooks to conducet BERTopic modelling:
   - [prepare data for BERTopic](https://github.com/psyronika/NL-Telegram-nets/blob/main/src/data-processing/Prepare_data_for_BERTopic.ipynb)
   - [fine-tune BERTopic model](https://github.com/psyronika/NL-Telegram-nets/tree/main/src/analysis#:~:text=Fine_tune_BERTopic.ipynb)
