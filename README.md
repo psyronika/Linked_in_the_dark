@@ -2,7 +2,7 @@
 
 This repository contains, data cleaning, processing, BERTopic modelling, network analysis and network visualisations of Telegram chats/channels that were used for the manuscript:
 
-### Simon, M., Welbers, K., Kroon, A, & Trilling, D. Linked in the Dark: A network approach to understanding information flows within the Dutch Telegramsphere (forthcoming).
+### Simon, M., Welbers, K., Kroon, A, & Trilling, D. Linked in the Dark: A network approach to understanding information flows within the Dutch Telegramsphere (forthcoming at Information, Communication and Society).
 
 #### Abstract
 
