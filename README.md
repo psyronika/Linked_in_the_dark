@@ -27,4 +27,5 @@ The data used for the analyses was collected via a python script that is availab
 ## More information
 More information about the team and the project can be found via https://newsflows.eu/ 
 
-#### This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 947695). 
+#### This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 947695). This work made use of the Dutch national e-infrastructure with the support of the SURF Cooperative using grant no. EINF-2968 and it was partly financed by the Dutch Research Council (NWO). 
+
